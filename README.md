@@ -1,6 +1,6 @@
 hcl_ws
 
-# RoverROS
+# Custom_Drone
 
 A repository containing the source code of a Custom Drone with Realsense plugin
 
