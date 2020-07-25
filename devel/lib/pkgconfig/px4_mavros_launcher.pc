@@ -1,0 +1,8 @@
+prefix=/home/yuthika/hcl_ws/devel
+
+Name: px4_mavros_launcher
+Description: Description of px4_mavros_launcher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

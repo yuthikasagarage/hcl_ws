@@ -1,0 +1,2 @@
+px4_mavros_launcher:realsense/realsense2_camera:realsense/realsense2_description:realsense_gazebo_plugin
+-DCATKIN_DEVEL_PREFIX=/home/yuthika/hcl_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yuthika/hcl_ws/install -G Unix Makefiles
