@@ -11,8 +11,14 @@ You will need to install the following:
   ROS Melodic
    
   `sudo apt-get install ros-melodic-realsense2-camera`  from https://github.com/IntelRealSense/realsense-ros
-   you will need to install mavros to catkin_ws as shown in the mavros official repo for mavros from source
+   
+   You will need to install mavros to catkin_ws as shown in the mavros official repo for mavros from source
    or you install it from apt package manager.
+
+##Initial Setup
+    
+    1) go to the src/px4_mavros_launcher/Models folder
+    2) copy the iris_realsense_camera folder to your Firmware/Tools/sitl_gazebo/models folder
     
 ##How to Build the Repo (Fresh Start)
 
