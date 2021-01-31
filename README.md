@@ -1,8 +1,6 @@
-hcl_ws
 
-# Custom_Drone
 
-A repository containing the source code of a Custom Drone with Realsense plugin
+## A repository containing the source code of a Custom Drone with Realsense plugin
 
 ## Dependancies:
 
